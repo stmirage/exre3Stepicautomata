@@ -1,1 +1,2 @@
-# exre3Stepicautomata
+# Module 3 for learning on stepic
+
